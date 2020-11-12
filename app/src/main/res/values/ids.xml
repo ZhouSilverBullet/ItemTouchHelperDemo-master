@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_article_title" type="id" />
+    <item name="tv_article_dec" type="id" />
+    <item name="tv_article_btn_edit" type="id" />
+    <item name="tv_article_text" type="id" />
+    <item name="iv_img_edit" type="id" />
+</resources>
